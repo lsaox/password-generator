@@ -9,4 +9,4 @@ Screenshot:
 
 ![Screenshot (2)](https://github.com/lsaox/password-generator-homework/assets/138525227/b0f861fc-ddb7-40d5-9304-f6d00caee11c)
 
-Link to Deployed Website : 
+Link to Deployed Website : https://lsaox.github.io/password-generator-homework/
